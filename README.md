@@ -1,7 +1,7 @@
 # Blog App Using Ruby on Rails
 
 This project was used to get our feets wet working with form building using Rails powerful form helpers.
-These project involved building some forms, both using nearly-pure HTML and then graduating to using the helper methods that Rails provides.
+This project involved building some forms, both using nearly-pure HTML and then graduating to using the helper methods that Rails provide.
 
 ## Built With
 
