@@ -1,7 +1,6 @@
-# Blog App Using Ruby on Rails
+# Bare Metal Forms Using Ruby on Rails
 
-This project was used to get our feets wet working with form building using Rails powerful form helpers.
-This project involved building some forms, both using nearly-pure HTML and then graduating to using the helper methods that Rails provide.
+In this project, we solidified our knowledge of working with Rails Forms and Helpers.
 
 ## Built With
 
